@@ -3,7 +3,6 @@
 - Mapas
 - Localização
 - Câmera
-- Sensor de voz (Não é importante)
 
 **Descrição**: Sistema de divulgação de eventos organizados por pessoas comuns (Sem CNPJ). Vão existir dois tipos de usuários, os participantes e os promotores de eventos.
 
